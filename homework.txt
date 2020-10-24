@@ -1,0 +1,7 @@
+[집에서]
+1.Visual Studio 활용해서 commit
+2.Git hub를 사용해서 remot repo 생성
+3.월요일 test 대비 공부 일요일하기
+3-1.sql 복습하기
+3-2.ncs 과정 공부하기
+4.12시전에 Git hub 에 Upload 하기 
